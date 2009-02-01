@@ -21,7 +21,7 @@ Requires:	unzip
 ExclusiveArch:	%{ix86} %{x8664}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
-%define		gamedir	%{_prefix}/share/q3
+%define		gamedir	%{_prefix}/share/games/quake3
 
 %description
 Urban Terror could best be described as a Hollywood tactical shooter;
