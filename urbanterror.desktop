@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Urban Terror
-Comment=Urban Terror launcher, will automatically download the needed data-files
+Comment=Urban Terror launcher
 Exec=urbanterror
 Icon=urbanterror
 Terminal=false
