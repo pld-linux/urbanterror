@@ -11,6 +11,7 @@ Source0:	http://dls.urt.voxel.net/q3ut4/UrbanTerror_41_FULL.zip
 NoSource:	0
 License:	?
 URL:		http://www.urbanterror.net/
+BuildRequires:	unzip
 Requires:	hicolor-icon-theme
 Source1:	%{name}.sh
 Source2:	%{name}.autodlrc
